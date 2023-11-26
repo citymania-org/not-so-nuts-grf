@@ -1,0 +1,11 @@
+STR_NAME_MEOW_rail_01:Edgecrusher {WHITE}(Steam)
+STR_NAME_MEOW_rail_02:Machine Debaser {WHITE}(Steam)
+STR_NAME_MEOW_rail_03:Demolition Racer {WHITE}(Steam)
+STR_NAME_MEOW_rail_04:Body Hammer {WHITE}(Steam)
+STR_NAME_MEOW_rail_05:Hurt Conveyer {WHITE}(Steam)
+STR_NAME_MEOW_rail_06:Controlled Demolition {WHITE}(Steam)
+STR_NAME_MEOW_rail_07:Damaged {WHITE}(Steam)
+STR_NAME_MEOW_rail_08:Refueled {WHITE}(Steam)
+STR_NAME_MEOW_rail_09:Transgenic {WHITE}(Steam)
+
+STR_MEOW_PURCHASE_TEXT:{BLACK}Vehicle class: {RED}M{LTBLUE}E{GOLD}O{GREEN}W {}{SILVER}Stat bonuses on PURR rails:{}{RED}RED PURR:{SILVER} +30% speed{}{LTBLUE}BLUE PURR:{SILVER} +30% power{}{GOLD}YELLOW PURR:{SILVER} +30% max T.E.{}{GREEN}GREEN PURR:{SILVER} +10% each
